@@ -129,3 +129,33 @@ Restaurant-Data-Analysis-Cuisine-Segmentation
 │   └── problem_statement.txt
 ├── requirements.txt
 └── README.md
+
+## ⚙️ Environment Setup
+This project uses a Python virtual environment (`venv`) to manage dependencies and ensure a clean, reproducible setup.
+
+```bash
+python -m venv venv
+venv\Scripts\activate        # On Windows
+pip install -r requirements.txt
+
+## 📦 Requirements
+
+All required Python libraries are listed in the requirements.txt file.
+Make sure Python 3.x is installed before running the project.
+
+## 🧠 Learning Outcomes
+
+Worked with unstructured cuisine text data
+
+Performed data cleaning and preprocessing using Python
+
+Applied unsupervised learning (K-Means clustering) for cuisine segmentation
+
+Analyzed pricing inequality, popularity bias, and cuisine diversity
+
+Built interactive dashboards for data storytelling using Power BI
+
+## 👩‍💻 Author
+
+Shreya Marathe
+Aspiring Data Analyst | Python | Power BI | Data Analytics
