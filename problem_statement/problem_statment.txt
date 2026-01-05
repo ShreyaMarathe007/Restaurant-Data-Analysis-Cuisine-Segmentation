@@ -1,0 +1,17 @@
+📝 Problem Statement
+
+Food delivery and restaurant listing platforms contain large amounts of unstructured cuisine text data that directly influence pricing analysis, customer perception, and cuisine visibility. 
+Due to inconsistent cuisine labeling, popularity bias, and regional differences, meaningful insights are often distorted. 
+This project is undertaken to identify and solve the following key problems:
+
+Regional pricing inequality across cuisines, where the same cuisine exhibits significant cost variation across different cities due to economic and cultural differences.
+
+Perception gap between traditional and modern cuisines, where traditional cuisines may receive lower customer ratings despite offering competitive pricing.
+
+Vote distribution bias by cuisine type, where familiar or popular cuisines attract disproportionately higher customer votes compared to less common cuisines.
+
+Long-tail cuisine visibility problem, in which rare or niche cuisines remain underrepresented and difficult to discover due to dominance of frequently occurring cuisine labels.
+
+Lack of identification of cuisine signatures, as restaurants offer multiple cuisine combinations that are not explicitly analyzed to uncover hidden cuisine patterns and market positioning.
+
+Absence of a measurable cuisine diversity metric, making it difficult to compare food variety across cities and understand regional culinary richness.
